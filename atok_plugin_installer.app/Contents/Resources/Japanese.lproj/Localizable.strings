@@ -1,0 +1,4 @@
+AlertCancel = "キャンセル";
+LogoutButton = "ログアウト";
+ContinueInstall = "インストールを続ける";
+ContinueUninstall = "アンインストールを続ける";

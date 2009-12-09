@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plugin_info>
+  <name>Google Suggestプラグイン</name>
+  <name_short>Google Suggest</name_short>
+  <description>Google Suggest</description>
+  <copyright>Akinori MUSHA (C) 2009</copyright>
+  <major_version>1</major_version>
+  <minor_version>0</minor_version>
+</plugin_info>

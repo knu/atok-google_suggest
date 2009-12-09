@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>Japanese</string>
+	<key>CFBundleDisplayName</key>
+	<string>atok_plugin_installer</string>
+	<key>CFBundleExecutable</key>
+	<string>atok_plugin_installer</string>
+	<key>CFBundleGetInfoString</key>
+	<string>ATOKダイレクト プラグイン インストーラ Ver.22.0.0
+(C) 2009 株式会社ジャストシステム</string>
+	<key>CFBundleIconFile</key>
+	<string>direct_install</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.justsystems.atok.plugin_installer</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>atok_plugin_installer</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>22.0.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>(C) 2009 株式会社ジャストシステム</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+</dict>
+</plist>
